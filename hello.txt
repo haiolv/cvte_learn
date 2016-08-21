@@ -1,2 +1,6 @@
-hello world!
-git is a free software under the GPL!
+public class HelloWorld{
+
+	public void test(){
+		System.out.println("hello world");
+	}
+}
