@@ -9,8 +9,4 @@ public class HelloWorld{
 		System.out.println("this is test1 method -- update");
 	
 	}
-
-	public void test3(){
-
-	}
 }
