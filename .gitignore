@@ -2,4 +2,15 @@
 key.txt
 
 # build info
+<<<<<<< Updated upstream
 build
+=======
+
+build
+
+# git config info
+gitÄ£°åÅäÖÃ
+
+# ignore itermediate file
+.dist
+>>>>>>> Stashed changes
