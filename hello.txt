@@ -6,7 +6,7 @@ public class HelloWorld{
 	}
 
 	public void test1(){
-		System.out.println("this is test1 method");
+		System.out.println("this is test1 method -- update");
 	
 	}
 
